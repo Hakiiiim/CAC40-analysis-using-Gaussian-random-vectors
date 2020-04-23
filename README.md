@@ -9,3 +9,4 @@ The main R file is _scriptTP2.R_
 
 Our report of the project is the file _TP_2_Benechehab_Gueddari.pdf_ (written in French)
 
+Please contact me in private if you need an english version of this work, we will prepare it for you.
